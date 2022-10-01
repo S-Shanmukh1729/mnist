@@ -1,2 +1,3 @@
-# mnist
-Comparing The performance of An SVM Classifier and ANN's on MNIST Hand Digits Dataset
+# MNIST
+###Comparing The performance of An SVM Classifier and ANN's on MNIST Hand Digits Dataset
+The scope of this proejct is to find how well an SVM Classifier performs compared to Artifical Neural Networks (ANNs). MNIST digits dataset has been used as the data. The MNIST dataset is a database of Hand Written digits.The MNIST database of handwritten digits,which has a training set of 60,000 examples, and a test set of 10,000 examples. Each images is of size 28x28 pixels. So each entry has 784(28*28) features i.e. the 2D images streched to be 1D. It is a subset of a larger set available from NIST. The digits have been size-normalized and centered in a fixed-size image.
